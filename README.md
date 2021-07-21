@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neelakandan839
+- 👋 Hi, I’m @Neelakandan
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
