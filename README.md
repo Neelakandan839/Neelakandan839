@@ -1,7 +1,7 @@
 # Hi 👋, I’m Neelakandan
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently **Full Stack Web Development**
 - 📫 How to reach me **Neelakandan839@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
