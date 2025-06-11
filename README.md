@@ -36,7 +36,7 @@
 
 <p align="center">
   <!-- Babylon.js -->
-  <img src="https://images.seeklogo.com/logo-png/51/1/babylon-js-logo-png_seeklogo-515545.png" width="40" height="40 title="Babylon.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Babylon_logo_v4.svg" width="40" height="40 title="Babylon.js" />
   
   <!-- Truffle -->
   <img src="https://seeklogo.com/images/T/truffle-logo-3574545D3D-seeklogo.com.png" width="40" title="Truffle" />
