@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,python,aws,git,github,gitlab,solidity,threejs,truffle,web3.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,python,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,aws,git,github,gitlab,solidity,threejs" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Babylon_logo_v4.svg" width="40" height="40 title="Babylon.js" />
   
   <!-- Truffle -->
-  <img src="https://seeklogo.com/images/T/truffle-logo-3574545D3D-seeklogo.com.png" width="40" title="Truffle" />
+  <img src="https://logowik.com/content/uploads/images/truffle-suite8425.logowik.com.webp" width="40" title="Truffle" />
   
   <!-- Web3.js -->
   <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="40" title="Web3.js" />
