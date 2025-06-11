@@ -31,21 +31,20 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,python,aws,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,python,aws,git,github,gitlab,solidity,threejs" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,threejs" alt="Three.js" />
-  
   <!-- Babylon.js -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Babylon.js_Logo.png" width="40" height="40" alt="Babylon.js" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Babylon.js_logo.svg/512px-Babylon.js_logo.svg.png" width="40" title="Babylon.js" />
+  
   <!-- Truffle -->
-  <img src="https://raw.githubusercontent.com/trufflesuite/trufflesuite.com/develop/public/img/truffle-logo.png" width="40" height="40" alt="Truffle" />
-
+  <img src="https://seeklogo.com/images/T/truffle-logo-3574545D3D-seeklogo.com.png" width="40" title="Truffle" />
+  
   <!-- Web3.js -->
-  <img src="https://raw.githubusercontent.com/web3/web3.js/1.x/logo/web3js.png" width="40" height="40" alt="Web3.js" />
+  <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="40" title="Web3.js" />
 </p>
+
 
 
 ---
