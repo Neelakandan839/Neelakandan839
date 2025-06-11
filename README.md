@@ -33,7 +33,7 @@
 <h1 align="center">Hi 👋, I'm Neelakandan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelakandan839" alt="neelakandan839" /></a> </p>
+<p align="left"> <a href="https://github.com/neelakandan839/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelakandan839" alt="neelakandan839" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://neelakandanportfolio.vercel.app/](https://neelakandanportfolio.vercel.app/)
 
