@@ -16,18 +16,28 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building with **React**, **Next.js**, and **Node.js**
-- 💡 Exploring **AI integrations**, **DevOps**, and **3D Web Experiences**
-- 🎯 Passionate about writing clean code and creating smooth user experiences
-- 🎥 Creating tech explainer reels at [Nuronix.ai](https://www.instagram.com/nuronix.ai/)
-- 🌐 Visit my portfolio → [neelakandanportfolio.vercel.app](https://neelakandanportfolio.vercel.app/)
+
+- 👨‍💻 Full Stack Developer with 3+ years of experience
+- 🧪 Built immersive 3D/360° web scenes and VR/XR apps with **Babylon.js** and **Three.js**
+- 🔗 Developed and deployed **smart contracts**, **NFTs**, and Web3 apps using **Solidity**, **Truffle**, and **Web3.js**
+- 📱 Built cross-platform mobile apps using **React Native**
+- 🤖 Created AI tools for real estate lead generation and chatbot automation
+- 🛠 Worked with modern tools in DevOps, 3D, Blockchain, and AI
+- 🎥 Creating tech content at [Nuronix.ai](https://www.instagram.com/nuronix.ai/)
+- 🌐 Check out my portfolio → [neelakandanportfolio.vercel.app](https://neelakandanportfolio.vercel.app/)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,bootstrap,figma,git,postman,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,python,aws,git,github,gitlab" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+  <img src="https://skillicons.dev/icons?i=babylonjs" alt="Babylon.js" />
 </p>
 
 ---
@@ -59,7 +69,3 @@
 ---
 
 > ✨ “Code is not just code, it's a story being told to the computer and the next developer.” — *Neelakandan*
-
----
-
-
