@@ -36,7 +36,7 @@
 
 <p align="center">
   <!-- Babylon.js -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Babylon.js_logo.svg/512px-Babylon.js_logo.svg.png" width="40" title="Babylon.js" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Babylon.js_logo.svg/512px-Babylon.js_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/8/8e/Babylon_logo_v4.svg)" width="40" title="Babylon.js" />
   
   <!-- Truffle -->
   <img src="https://seeklogo.com/images/T/truffle-logo-3574545D3D-seeklogo.com.png" width="40" title="Truffle" />
