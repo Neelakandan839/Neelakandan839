@@ -32,15 +32,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,materialui,nodejs,express,mongodb,mysql,python,aws,git,github,gitlab" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,threejs" alt="Three.js" />
+    <img src="https://skillicons.dev/icons?i=solidity,threejs" alt="Three.js" />
   <img src="https://raw.githubusercontent.com/babylonjs/babylonjs.com/master/public/img/favicon/android-chrome-512x512.png" width="40" height="40" alt="Babylon.js" />
   <img src="https://raw.githubusercontent.com/trufflesuite/trufflesuite.com/develop/public/img/truffle-logo.png" width="40" height="40" alt="Truffle" />
   <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="40" height="40" alt="Web3.js" />
 </p>
-
 
 ---
 
